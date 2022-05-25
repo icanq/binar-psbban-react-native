@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "instahram",
+    "slug": "instahram",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "org.name.instahram"
+    }
+  }
+}
